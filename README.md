@@ -95,7 +95,7 @@ print(prediction)
 1. Clone the repository:
 
 ```bash id="e0y5sv"
-git clone https://github.com/Srivarshini04/gold-price-prediction.git
+git clone https://github.com/Srivarshini04/Gold-Price-Prediction.git
 ```
 
 2. Install dependencies:
